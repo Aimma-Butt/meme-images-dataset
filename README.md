@@ -1,5 +1,5 @@
 # meme-images-dataset
-This repository contains a curated dataset of approximately **1000 meme images** organized into **29 distinct classes**.  
+This repository contains a dataset of approximately **1000 meme images** organized into **29 distinct classes**.  
 Each class represents a different sentiment class. 
 
 ## Dataset Overview
